@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>장지동 퀵서비스 | 24시 에이플러스 장지동퀵</title>
+  <link>https://jangji.8222quick.com/</link>
+  <description>장지동 전지역 24시 실시간 배차, 가든파이브·장지역·대규모 유통단지 중심 신속한 배송 원칙</description>
+  <language>ko-KR</language>
+  <pubDate>Sat, 14 Feb 2026 21:20:00 +0900</pubDate>
+  <lastBuildDate>Sat, 14 Feb 2026 21:20:00 +0900</lastBuildDate>
+  <atom:link href="https://jangji.8222quick.com/rss.xml" rel="self" type="application/rss+xml" />
+
+  <item>
+    <title>장지동 퀵서비스 24시 신속한 배송 안내</title>
+    <link>https://jangji.8222quick.com/index.html</link>
+    <description>가든파이브, 장지역, 파인타운 주변 어디서나 접수 즉시 신속한 배송을 약속합니다. 오토바이, 다마스, 라보 전 차종 대기.</description>
+    <category>퀵서비스</category>
+    <pubDate>Sat, 14 Feb 2026 21:20:00 +0900</pubDate>
+    <guid>https://jangji.8222quick.com/index.html</guid>
+  </item>
+
+  <item>
+    <title>장지동 퀵서비스 요금 및 배차 안내</title>
+    <link>https://jangji.8222quick.com/money.html</link>
+    <description>송파구 장지동 지역별 상세 퀵서비스 요금표와 차량별 운송 안내입니다.</description>
+    <category>요금안내</category>
+    <pubDate>Sat, 14 Feb 2026 21:20:00 +0900</pubDate>
+    <guid>https://jangji.8222quick.com/money.html</guid>
+  </item>
+</channel>
+</rss>
